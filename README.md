@@ -37,6 +37,7 @@ Tras apagar sus motores de ascenso, la nave Orion es inyectada en una órbita te
 ### Rangos validos de ingreso
 
 | Dato | Rango | Justificacion |
+|---|---|---|
 | Altitud | 160 a 2000 km | Por debajo de 160 km el rozamiento atmosferico hace decaer la orbita en pocas horas. Por encima de 2000 km ya no es orbita baja. |
 | Aceleracion del pulso | 0,01 a 20 m/s^2 | Valores razonables para un propulsor auxiliar. |
 | Duracion del pulso | 0,1 a 600 s | Pulsos cortos frente al periodo orbital. |
@@ -47,6 +48,7 @@ Se acepta coma o punto como separador decimal.
 
 ### organización del codigo
 
+...
 /
 ├── main.c           menú principal y ciclo del programa
 ├── artemis.h        constantes, structs y prototipos
@@ -56,6 +58,7 @@ Se acepta coma o punto como separador decimal.
 ├── Makefile
 ├── .gitignore
 └── README.md
+...
 
 ### Módulos
 - main.c: contiene main(), el dibujo del menú y el ciclo principal con switch. No tiene cálculos.
