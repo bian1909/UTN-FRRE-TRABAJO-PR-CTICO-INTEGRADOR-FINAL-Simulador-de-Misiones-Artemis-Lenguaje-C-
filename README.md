@@ -48,7 +48,7 @@ Se acepta coma o punto como separador decimal.
 
 ### organización del codigo
 
-...
+```
 /
 ├── main.c           menú principal y ciclo del programa
 ├── artemis.h        constantes, structs y prototipos
@@ -58,7 +58,7 @@ Se acepta coma o punto como separador decimal.
 ├── Makefile
 ├── .gitignore
 └── README.md
-...
+```
 
 ### Módulos
 - main.c: contiene main(), el dibujo del menú y el ciclo principal con switch. No tiene cálculos.
