@@ -111,5 +111,6 @@ con el makefile:
 ## Uso de Inteligencia Artificial
 
 Se utilizo Claude (de Anthropic) como asistencia en el desarrollo del trabajo, asi como en su planificación, y tambien para detalles de este README.
-Link del video con presentación y explicación: 
+
+##Link del video con presentación y explicación: 
 https://youtu.be/8Cz4JB3XrQ8
